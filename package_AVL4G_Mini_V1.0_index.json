@@ -12,7 +12,7 @@
                 {
                     "name": "AVL4G Mini PLK",
                     "architecture": "samd",
-                    "version": "1.0.0",
+                    "version": "1.0.1",
                     "category": "IoT",
                     "url": "https://github.com/mj-rios/AVL4G_Mini_boardpkg/raw/main/AVL4G_Mini_boardpkg_V1.0.zip",
                     "archiveFileName": "AVL4G_Mini_boardpkg_V1.0.zip",
