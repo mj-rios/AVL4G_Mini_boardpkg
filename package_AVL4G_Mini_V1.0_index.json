@@ -1,0 +1,58 @@
+{
+    "packages": [
+        {
+            "name": "AVL4G_Mini_boardpkg",
+            "maintainer": "P-Lock",
+            "websiteURL": "https://p-lock.net/",
+            "email": "mrios@p-lock.net",
+            "help": {
+                "online": "https://p-lock.net/"
+            },
+            "platforms": [
+                {
+                    "name": "AVL4G Mini PLK",
+                    "architecture": "samd",
+                    "version": "1.0.0",
+                    "category": "IoT",
+                    "url": "https://github.com/mj-rios/IoTBoard4Gv2021.3/raw/75f47eba76f8f1d6514f246dbac3ad880b9f39ef/IoTBoard4G_v2021.3.zip",
+                    "archiveFileName": "AVL4G_Mini_boardpkg_V1.0.zip",
+                    "checksum": "SHA-256:cdcbcda17d23c73e9d46b187753415a091fa9e5ffdb22f61d79673efedb74595",
+                    "size": "2445200",
+                    "boards": [
+                        {
+                            "name": "AVL4G Mini PLK V1.0"
+                        }
+                    ],
+                    "toolsDependencies": [
+						{
+						  "name": "arm-none-eabi-gcc",
+						  "packager": "arduino",
+						  "version": "4.8.3-2014q1"
+						},
+						{
+						  "name": "bossac",
+						  "packager": "arduino",
+						  "version": "1.8.0-48-gb176eee"
+						},
+						{
+						  "name": "openocd",
+						  "packager": "arduino",
+						  "version": "0.9.0-arduino"
+						},
+						{
+						  "name": "CMSIS",
+						  "packager": "arduino",
+						  "version": "4.5.0"
+						},
+						{
+						  "name": "CMSIS-Atmel",
+						  "packager": "arduino",
+						  "version": "1.2.0"
+						}
+                     ]
+				}
+            ],
+            "tools": []
+        }
+    ]
+}
