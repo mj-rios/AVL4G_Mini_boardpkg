@@ -16,7 +16,7 @@
                     "category": "IoT",
                     "url": "https://github.com/mj-rios/AVL4G_Mini_boardpkg/raw/main/AVL4G_Mini_boardpkg_V1.0.zip",
                     "archiveFileName": "AVL4G_Mini_boardpkg_V1.0.zip",
-                    "checksum": "SHA-256:cdcbcda17d23c73e9d46b187753415a091fa9e5ffdb22f61d79673efedb74595",
+                    "checksum": "SHA-256:e78f679d0b14b93d86fab5b65613f08d2dc495f61429b98dbb559e8abed7fa4d",
                     "size": "2445200",
                     "boards": [
                         {
